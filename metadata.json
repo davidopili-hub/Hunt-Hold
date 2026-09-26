@@ -1,0 +1,6 @@
+{
+  "name": "Hunt & Hold - Affordable Housing & Vacancy Hub",
+  "description": "Discover verified affordable housing options, post vacant properties, manage digital leases, chat securely, and track ongoing rental applications with real-time mapping.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
